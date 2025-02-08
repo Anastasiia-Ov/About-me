@@ -11,4 +11,3 @@
 ### I love Java! 
 > "Write once, run anywhere!"
 
-![photo](https://avatars.githubusercontent.com/u/196641013?v=4)
